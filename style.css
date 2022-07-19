@@ -1,0 +1,55 @@
+body{
+    margin: 0px;
+    padding: 0px;
+}
+
+
+.picture{
+    width: 20%;
+    border:2px solid black;
+    height:400px;
+    float: left;
+    margin-left: 4%;
+    margin-top: 40px;
+}
+.container{
+    height: 700px;
+    width: 70%;
+    
+    float: left;
+}
+.container1{
+    border: 2px solid rgb(177, 156, 156);
+    border-radius: 5px;
+    width: 70%;
+    height: 300px;
+    margin-left: 10%;
+    margin-top: 10px;
+}
+.container2{
+    border: 2px solid rgb(175, 159, 159);
+    width: 70%;
+    height: 300px;
+    margin-left: 10%;
+    margin-top: 10px;
+}
+
+.image{
+    float: left;
+    margin: 9px 3%;
+}
+.image>img{
+    border: 2px solid black;
+    border-radius: 10px;
+}
+.details{
+    float: left;
+    
+}
+.btn{
+    margin: 4px;
+    color: white;
+    font-size: 16px;
+    border: none;
+    border-radius: 5px;
+}
